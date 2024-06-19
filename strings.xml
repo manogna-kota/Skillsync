@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="event_name">
+        <item>Hackathon</item>
+        <item>Internship</item>
+        <item>Webinar</item>
+    </string-array>
+
+    <string-array name="event_description">
+        <item>smart India Hackathon</item>
+        <item>Google Step Internship</item>
+        <item>webinar on Time Complexities</item>
+    </string-array>
+
+    <string-array name="event_date">
+        <item>16-01-24</item>
+        <item>17-01-24</item>
+        <item>18-01-24</item>
+    </string-array>
+
+    <string-array name="event_time">
+        <item>8A.M.</item>
+        <item>9A.M.</item>
+        <item>10A.M.</item>
+    </string-array>
+
+    <string-array name="event_location">
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Bangalore</item>
+    </string-array>
+
+
+</resources>
