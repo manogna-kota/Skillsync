@@ -1,6 +1,7 @@
 # Skillsync
 Skillsync is a college level mobile application for communication about ongoing academic or technical events.
 </br>
+</br>
 Our mobile app streamlines communication       
    between college faculty and students, 
    serving as a centralized platform for 
